@@ -2,32 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://izabbit.me/about/</loc>
+    <loc>http://izabbit.me/about/</loc>
     <lastmod>2017-05-14T17:32:19-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://izabbit.me/categories/</loc>
+    <loc>http://izabbit.me/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://izabbit.me/home/</loc>
+    <loc>http://izabbit.me/home/</loc>
   </url>
   
   <url>
-    <loc>https://izabbit.me/tags/</loc>
+    <loc>http://izabbit.me/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://izabbit.me/tags/tags/</loc>
+    <loc>http://izabbit.me/tags/tags/</loc>
     <lastmod>2017-05-14T17:32:19-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://izabbit.me/</loc>
+    <loc>http://izabbit.me/</loc>
     <lastmod>2017-05-14T17:32:19-04:00</lastmod>
     <priority>0</priority>
   </url>
